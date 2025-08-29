@@ -2,6 +2,10 @@
 
 A simple web page showcasing testimonial cards with modern styling.
 
+## Project URL
+
+[https://roadmap.sh/projects/testimonial-cards](https://roadmap.sh/projects/testimonial-cards)
+
 ## Files
 
 - [main.html](main.html): The main HTML file containing the testimonial card layout and structure.
@@ -28,4 +32,4 @@ A simple web page showcasing testimonial cards with modern styling.
 ## Credits
 
 - [Font Awesome](https://fontawesome.com/) for icons
-- [thispersondoesnotexist.com](https://thispersondoesnotexist.com/) for
+- [thispersondoesnotexist.com](https://thispersondoesnotexist.com/) for placeholder images
